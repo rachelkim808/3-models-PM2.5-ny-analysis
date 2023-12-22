@@ -1,0 +1,254 @@
+Date,Source,Site ID,POC,Daily Mean PM2.5 Concentration,UNITS,DAILY_AQI_VALUE,Site Name,DAILY_OBS_COUNT,PERCENT_COMPLETE,AQS_PARAMETER_CODE,AQS_PARAMETER_DESC,CBSA_CODE,CBSA_NAME,STATE_CODE,STATE,COUNTY_CODE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+2/1/23,AQS,360470118,3,7.2,ug/m3 LC,30,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/2/23,AQS,360470118,3,12.6,ug/m3 LC,52,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/3/23,AQS,360470118,3,6.6,ug/m3 LC,28,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/4/23,AQS,360470118,3,4.1,ug/m3 LC,17,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/5/23,AQS,360470118,3,9.5,ug/m3 LC,40,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/6/23,AQS,360470118,3,13.3,ug/m3 LC,54,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/7/23,AQS,360470118,3,11.4,ug/m3 LC,48,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/8/23,AQS,360470118,3,14.8,ug/m3 LC,57,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/9/23,AQS,360470118,3,17.5,ug/m3 LC,62,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/10/23,AQS,360470118,3,7.7,ug/m3 LC,32,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/11/23,AQS,360470118,3,4.5,ug/m3 LC,19,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/12/23,AQS,360470118,3,10.8,ug/m3 LC,45,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/13/23,AQS,360470118,3,7.7,ug/m3 LC,32,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/14/23,AQS,360470118,3,7.2,ug/m3 LC,30,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/15/23,AQS,360470118,3,7.7,ug/m3 LC,32,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/16/23,AQS,360470118,3,13.1,ug/m3 LC,53,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/17/23,AQS,360470118,3,9.6,ug/m3 LC,40,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/18/23,AQS,360470118,3,5.4,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/19/23,AQS,360470118,3,10.9,ug/m3 LC,45,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/20/23,AQS,360470118,3,10.4,ug/m3 LC,43,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/21/23,AQS,360470118,3,12.6,ug/m3 LC,52,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/22/23,AQS,360470118,3,11,ug/m3 LC,46,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/23/23,AQS,360470118,3,9.7,ug/m3 LC,40,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/24/23,AQS,360470118,3,6.8,ug/m3 LC,28,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/25/23,AQS,360470118,3,5.1,ug/m3 LC,21,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/26/23,AQS,360470118,3,16.9,ug/m3 LC,61,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/27/23,AQS,360470118,3,7.8,ug/m3 LC,33,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+2/28/23,AQS,360470118,3,7.8,ug/m3 LC,33,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/1/23,AQS,360470118,3,9.3,ug/m3 LC,39,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/2/23,AQS,360470118,3,12.6,ug/m3 LC,52,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/3/23,AQS,360470118,3,5.5,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/4/23,AQS,360470118,3,3.8,ug/m3 LC,16,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/5/23,AQS,360470118,3,6,ug/m3 LC,25,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/6/23,AQS,360470118,3,5.4,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/7/23,AQS,360470118,3,3.5,ug/m3 LC,15,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/8/23,AQS,360470118,3,3.2,ug/m3 LC,13,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/9/23,AQS,360470118,3,4.3,ug/m3 LC,18,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/10/23,AQS,360470118,3,7.4,ug/m3 LC,31,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/11/23,AQS,360470118,3,5.5,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/12/23,AQS,360470118,3,5.7,ug/m3 LC,24,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/13/23,AQS,360470118,3,6.6,ug/m3 LC,28,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/14/23,AQS,360470118,3,3.1,ug/m3 LC,13,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/15/23,AQS,360470118,3,2.6,ug/m3 LC,11,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/16/23,AQS,360470118,3,7.7,ug/m3 LC,32,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/17/23,AQS,360470118,3,17.4,ug/m3 LC,62,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/18/23,AQS,360470118,3,7.9,ug/m3 LC,33,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/19/23,AQS,360470118,3,4.9,ug/m3 LC,20,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/20/23,AQS,360470118,3,10.3,ug/m3 LC,43,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/21/23,AQS,360470118,3,10.5,ug/m3 LC,44,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/22/23,AQS,360470118,3,9.2,ug/m3 LC,38,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/23/23,AQS,360470118,3,18.9,ug/m3 LC,65,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/24/23,AQS,360470118,3,9.7,ug/m3 LC,40,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/25/23,AQS,360470118,3,8.4,ug/m3 LC,35,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/26/23,AQS,360470118,3,8,ug/m3 LC,33,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/27/23,AQS,360470118,3,6.2,ug/m3 LC,26,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/28/23,AQS,360470118,3,7,ug/m3 LC,29,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/29/23,AQS,360470118,3,6.7,ug/m3 LC,28,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/30/23,AQS,360470118,3,4.4,ug/m3 LC,18,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+3/31/23,AQS,360470118,3,10.6,ug/m3 LC,44,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/1/23,AQS,360470118,3,8.8,ug/m3 LC,37,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/2/23,AQS,360470118,3,3,ug/m3 LC,13,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/3/23,AQS,360470118,3,6.5,ug/m3 LC,27,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/4/23,AQS,360470118,3,12,ug/m3 LC,50,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/5/23,AQS,360470118,3,12.2,ug/m3 LC,51,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/6/23,AQS,360470118,3,14.5,ug/m3 LC,56,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/7/23,AQS,360470118,3,4.2,ug/m3 LC,18,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/8/23,AQS,360470118,3,5.6,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/9/23,AQS,360470118,3,6.7,ug/m3 LC,28,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/10/23,AQS,360470118,3,9.8,ug/m3 LC,41,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/11/23,AQS,360470118,3,9.2,ug/m3 LC,38,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/12/23,AQS,360470118,3,10.2,ug/m3 LC,43,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/13/23,AQS,360470118,3,12.5,ug/m3 LC,52,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/14/23,AQS,360470118,3,15.8,ug/m3 LC,59,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/15/23,AQS,360470118,3,7.8,ug/m3 LC,33,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/16/23,AQS,360470118,3,9.6,ug/m3 LC,40,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/17/23,AQS,360470118,3,8.6,ug/m3 LC,36,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/18/23,AQS,360470118,3,5.3,ug/m3 LC,22,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/19/23,AQS,360470118,3,7,ug/m3 LC,29,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/20/23,AQS,360470118,3,8.3,ug/m3 LC,35,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/21/23,AQS,360470118,3,10.1,ug/m3 LC,42,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/22/23,AQS,360470118,3,15.5,ug/m3 LC,58,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/23/23,AQS,360470118,3,5.6,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/24/23,AQS,360470118,3,6.5,ug/m3 LC,27,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/25/23,AQS,360470118,3,7.4,ug/m3 LC,31,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/26/23,AQS,360470118,3,9.7,ug/m3 LC,40,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/27/23,AQS,360470118,3,11.1,ug/m3 LC,46,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/28/23,AQS,360470118,3,10.2,ug/m3 LC,43,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/29/23,AQS,360470118,3,5.9,ug/m3 LC,25,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+4/30/23,AQS,360470118,3,5.7,ug/m3 LC,24,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/1/23,AQS,360470118,3,3.7,ug/m3 LC,15,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/2/23,AQS,360470118,3,3.3,ug/m3 LC,14,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/3/23,AQS,360470118,3,3.6,ug/m3 LC,15,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/4/23,AQS,360470118,3,7.1,ug/m3 LC,30,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/5/23,AQS,360470118,3,8.4,ug/m3 LC,35,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/6/23,AQS,360470118,3,6.9,ug/m3 LC,29,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/7/23,AQS,360470118,3,6.6,ug/m3 LC,28,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/8/23,AQS,360470118,3,5.6,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/9/23,AQS,360470118,3,5.4,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/10/23,AQS,360470118,3,8.7,ug/m3 LC,36,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/11/23,AQS,360470118,3,13.4,ug/m3 LC,54,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/12/23,AQS,360470118,3,16.7,ug/m3 LC,61,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/13/23,AQS,360470118,3,13.1,ug/m3 LC,53,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/14/23,AQS,360470118,3,8.3,ug/m3 LC,35,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/15/23,AQS,360470118,3,6,ug/m3 LC,25,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/16/23,AQS,360470118,3,8.6,ug/m3 LC,36,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/17/23,AQS,360470118,3,6,ug/m3 LC,25,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/18/23,AQS,360470118,3,4.7,ug/m3 LC,20,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/19/23,AQS,360470118,3,6.9,ug/m3 LC,29,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/20/23,AQS,360470118,3,7.3,ug/m3 LC,30,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/21/23,AQS,360470118,3,12.2,ug/m3 LC,51,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/22/23,AQS,360470118,3,17.4,ug/m3 LC,62,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/23/23,AQS,360470118,3,10.1,ug/m3 LC,42,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/24/23,AQS,360470118,3,8,ug/m3 LC,33,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/25/23,AQS,360470118,3,4.4,ug/m3 LC,18,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/26/23,AQS,360470118,3,5.6,ug/m3 LC,23,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/27/23,AQS,360470118,3,6.4,ug/m3 LC,27,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/28/23,AQS,360470118,3,6.2,ug/m3 LC,26,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/29/23,AQS,360470118,3,11.3,ug/m3 LC,47,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/30/23,AQS,360470118,3,14.3,ug/m3 LC,56,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+5/31/23,AQS,360470118,3,13.6,ug/m3 LC,54,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/1/23,AQS,360470118,3,15.7,ug/m3 LC,59,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/2/23,AQS,360470118,3,14.3,ug/m3 LC,56,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/3/23,AQS,360470118,3,11.7,ug/m3 LC,49,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/4/23,AQS,360470118,3,4.8,ug/m3 LC,20,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/5/23,AQS,360470118,3,12.6,ug/m3 LC,52,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/6/23,AQS,360470118,3,82.3,ug/m3 LC,165,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/7/23,AQS,360470118,3,173.8,ug/m3 LC,224,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/8/23,AQS,360470118,3,85.4,ug/m3 LC,166,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/9/23,AQS,360470118,3,13.5,ug/m3 LC,54,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/10/23,AQS,360470118,3,14.5,ug/m3 LC,56,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/11/23,AQS,360470118,3,30.6,ug/m3 LC,90,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/12/23,AQS,360470118,3,23.6,ug/m3 LC,75,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/13/23,AQS,360470118,3,8.2,ug/m3 LC,34,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+6/14/23,AQS,360470118,3,8.8,ug/m3 LC,37,PS 274,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/14/23,AQS,360470118,4,7.5,ug/m3 LC,31,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/15/23,AQS,360470118,4,7.9,ug/m3 LC,33,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/17/23,AQS,360470118,4,15.5,ug/m3 LC,58,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/18/23,AQS,360470118,4,16.5,ug/m3 LC,60,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/19/23,AQS,360470118,4,30.6,ug/m3 LC,90,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/20/23,AQS,360470118,4,18.7,ug/m3 LC,65,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/21/23,AQS,360470118,4,9.8,ug/m3 LC,41,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/22/23,AQS,360470118,4,5.5,ug/m3 LC,23,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/23/23,AQS,360470118,4,9,ug/m3 LC,38,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/24/23,AQS,360470118,4,8.1,ug/m3 LC,34,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/25/23,AQS,360470118,4,7.6,ug/m3 LC,32,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/26/23,AQS,360470118,4,13.5,ug/m3 LC,54,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/27/23,AQS,360470118,4,12.5,ug/m3 LC,52,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/28/23,AQS,360470118,4,9.7,ug/m3 LC,40,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/29/23,AQS,360470118,4,5.9,ug/m3 LC,25,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/30/23,AQS,360470118,4,3.6,ug/m3 LC,15,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+7/31/23,AQS,360470118,4,5.5,ug/m3 LC,23,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/1/23,AQS,360470118,4,4.6,ug/m3 LC,19,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/2/23,AQS,360470118,4,3.6,ug/m3 LC,15,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/3/23,AQS,360470118,4,3.7,ug/m3 LC,15,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/4/23,AQS,360470118,4,11.5,ug/m3 LC,48,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/5/23,AQS,360470118,4,16.2,ug/m3 LC,60,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/6/23,AQS,360470118,4,16.5,ug/m3 LC,60,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/7/23,AQS,360470118,4,10.7,ug/m3 LC,45,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/8/23,AQS,360470118,4,4.5,ug/m3 LC,19,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/9/23,AQS,360470118,4,11.1,ug/m3 LC,46,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/12/23,AQS,360470118,4,10.6,ug/m3 LC,44,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/13/23,AQS,360470118,4,5.7,ug/m3 LC,24,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/14/23,AQS,360470118,4,6,ug/m3 LC,25,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/15/23,AQS,360470118,4,6.2,ug/m3 LC,26,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/16/23,AQS,360470118,4,4.3,ug/m3 LC,18,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/17/23,AQS,360470118,4,5.3,ug/m3 LC,22,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/18/23,AQS,360470118,4,6.8,ug/m3 LC,28,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/19/23,AQS,360470118,4,9.7,ug/m3 LC,40,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/20/23,AQS,360470118,4,12.2,ug/m3 LC,51,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/21/23,AQS,360470118,4,17.3,ug/m3 LC,62,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/22/23,AQS,360470118,4,9.6,ug/m3 LC,40,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/23/23,AQS,360470118,4,5.1,ug/m3 LC,21,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/24/23,AQS,360470118,4,5.1,ug/m3 LC,21,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/25/23,AQS,360470118,4,7.2,ug/m3 LC,30,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/26/23,AQS,360470118,4,8,ug/m3 LC,33,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/27/23,AQS,360470118,4,6.1,ug/m3 LC,25,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/28/23,AQS,360470118,4,7.2,ug/m3 LC,30,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+8/29/23,AQS,360470118,4,4.8,ug/m3 LC,20,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/1/23,AQS,360470118,4,3.8,ug/m3 LC,16,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/2/23,AQS,360470118,4,5.3,ug/m3 LC,22,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/3/23,AQS,360470118,4,8.8,ug/m3 LC,37,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/4/23,AQS,360470118,4,13.1,ug/m3 LC,53,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/5/23,AQS,360470118,4,15,ug/m3 LC,57,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/6/23,AQS,360470118,4,15.1,ug/m3 LC,57,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/7/23,AQS,360470118,4,12.2,ug/m3 LC,51,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/8/23,AQS,360470118,4,12.3,ug/m3 LC,51,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/9/23,AQS,360470118,4,12.1,ug/m3 LC,51,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/10/23,AQS,360470118,4,6.5,ug/m3 LC,27,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/11/23,AQS,360470118,4,6.2,ug/m3 LC,26,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/12/23,AQS,360470118,4,5.9,ug/m3 LC,25,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/13/23,AQS,360470118,4,5.4,ug/m3 LC,23,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/14/23,AQS,360470118,4,4.2,ug/m3 LC,18,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/15/23,AQS,360470118,4,4.6,ug/m3 LC,19,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/16/23,AQS,360470118,4,5.6,ug/m3 LC,23,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/17/23,AQS,360470118,4,6,ug/m3 LC,25,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/18/23,AQS,360470118,4,4.1,ug/m3 LC,17,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/19/23,AQS,360470118,4,6.6,ug/m3 LC,28,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/20/23,AQS,360470118,4,6.4,ug/m3 LC,27,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/21/23,AQS,360470118,4,6.3,ug/m3 LC,26,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/22/23,AQS,360470118,4,5.7,ug/m3 LC,24,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/23/23,AQS,360470118,4,3.4,ug/m3 LC,14,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/24/23,AQS,360470118,4,1.4,ug/m3 LC,6,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/25/23,AQS,360470118,4,4.7,ug/m3 LC,20,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/27/23,AQS,360470118,4,6.9,ug/m3 LC,29,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/28/23,AQS,360470118,4,9.1,ug/m3 LC,38,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/29/23,AQS,360470118,4,3.9,ug/m3 LC,16,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+9/30/23,AQS,360470118,4,8.4,ug/m3 LC,35,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/1/23,AQS,360470118,4,11.8,ug/m3 LC,49,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/2/23,AQS,360470118,4,12,ug/m3 LC,50,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/3/23,AQS,360470118,4,14.4,ug/m3 LC,56,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/4/23,AQS,360470118,4,14.8,ug/m3 LC,57,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/5/23,AQS,360470118,4,9.2,ug/m3 LC,38,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/6/23,AQS,360470118,4,8.4,ug/m3 LC,35,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/7/23,AQS,360470118,4,6.7,ug/m3 LC,28,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/11/23,AQS,360470118,4,11.7,ug/m3 LC,49,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/12/23,AQS,360470118,4,14.6,ug/m3 LC,56,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/13/23,AQS,360470118,4,4,ug/m3 LC,17,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/14/23,AQS,360470118,4,4.2,ug/m3 LC,18,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/15/23,AQS,360470118,4,3.2,ug/m3 LC,13,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/16/23,AQS,360470118,4,2.5,ug/m3 LC,10,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/17/23,AQS,360470118,4,6.6,ug/m3 LC,28,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/18/23,AQS,360470118,4,8.3,ug/m3 LC,35,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/19/23,AQS,360470118,4,7.4,ug/m3 LC,31,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/20/23,AirNow,360470118,4,5.8,ug/m3 LC,24,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/22/23,AQS,360470118,4,2.3,ug/m3 LC,10,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/23/23,AQS,360470118,4,6.5,ug/m3 LC,27,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/24/23,AQS,360470118,4,5.7,ug/m3 LC,24,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/25/23,AQS,360470118,4,8.9,ug/m3 LC,37,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/26/23,AQS,360470118,4,13.1,ug/m3 LC,53,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/27/23,AQS,360470118,4,15.6,ug/m3 LC,58,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/28/23,AQS,360470118,4,9.8,ug/m3 LC,41,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/29/23,AirNow,360470118,4,1.4,ug/m3 LC,6,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/30/23,AQS,360470118,4,7.5,ug/m3 LC,31,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+10/31/23,AQS,360470118,4,3,ug/m3 LC,13,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+11/1/23,AirNow,360470118,4,5.6,ug/m3 LC,23,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+11/2/23,AirNow,360470118,4,5,ug/m3 LC,21,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+11/3/23,AirNow,360470118,4,6.5,ug/m3 LC,27,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+11/4/23,AirNow,360470118,4,11.9,ug/m3 LC,50,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+11/5/23,AirNow,360470118,4,16.8,ug/m3 LC,61,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+11/6/23,AirNow,360470118,4,7.8,ug/m3 LC,33,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+11/7/23,AirNow,360470118,4,16.5,ug/m3 LC,60,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/8/23,AirNow,360470118,4,19.2,ug/m3 LC,66,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/9/23,AirNow,360470118,4,24.7,ug/m3 LC,77,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/10/23,AirNow,360470118,4,14.8,ug/m3 LC,57,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/11/23,AirNow,360470118,4,2.6,ug/m3 LC,11,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/12/23,AirNow,360470118,4,6.6,ug/m3 LC,28,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/13/23,AirNow,360470118,4,8.5,ug/m3 LC,35,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/14/23,AirNow,360470118,4,6,ug/m3 LC,25,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/15/23,AirNow,360470118,4,14.2,ug/m3 LC,55,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/16/23,AirNow,360470118,4,13.8,ug/m3 LC,55,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/17/23,AirNow,360470118,4,12.4,ug/m3 LC,52,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/18/23,AirNow,360470118,4,5.6,ug/m3 LC,23,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
+12/19/23,AirNow,360470118,4,3.6,ug/m3 LC,15,PS 274,1,100,88101,PM2.5 - Local Conditions,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,047,Kings,40.69454,-73.92769
